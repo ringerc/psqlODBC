@@ -34,5 +34,8 @@
   email:   pgsql-odbc@postgresql.org
   website: http://pgfoundry.org/projects/psqlodbc
 
+  
+  INSTALLATION: See docs/ or winbuild/readme_winbuild.txt
+
 
 ***********************************************************************/
